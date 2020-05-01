@@ -10,4 +10,4 @@ ADD++
 
 git brank ++
 
-[200~Updating
+Creating a new branch is quick and simple.
